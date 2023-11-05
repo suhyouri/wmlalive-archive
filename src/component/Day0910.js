@@ -19,25 +19,25 @@ export default function Day0910() {
           width="250px"
           height="auto"
           src="assets/img/monster_1.png"
-          alt="airmotor"
+          alt="leanOn"
         />
         <img
           width="250px"
           height="auto"
           src="assets/img/monster_1.png"
-          alt="airmotor"
+          alt="leanOn"
         />
         <img
           width="250px"
           height="auto"
           src="assets/img/monster_1.png"
-          alt="airmotor"
+          alt="leanOn"
         />
         <img
           width="150px"
           height="auto"
           src="assets/img/bone.PNG"
-          alt="airmotor"
+          alt="bone"
         />
         <br />
         <br />

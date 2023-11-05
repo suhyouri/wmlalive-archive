@@ -17,7 +17,7 @@ export default function Day1009() {
           width="20%"
           height="auto"
           src="assets/img/3dcnc_result.PNG"
-          alt="airmotor"
+          alt="3dcnc_result"
         />
         <br />
         <br />
@@ -25,25 +25,25 @@ export default function Day1009() {
           width="50%"
           height="auto"
           src="assets/img/3dcnc.jpg"
-          alt="airmotor"
+          alt="sketch-sheet-1"
         />
         <img
           width="50%"
           height="auto"
           src="assets/img/ped.jpg"
-          alt="airmotor"
+          alt="sketch-sheet-2"
         />
         <img
           width="50%"
           height="auto"
           src="assets/img/steelplate.jpg"
-          alt="airmotor"
+          alt="sketch-sheet-3"
         />
         <img
           width="50%"
           height="auto"
           src="assets/img/weldering.jpg"
-          alt="airmotor"
+          alt="sketch-sheet-4"
         />
         <br />
 

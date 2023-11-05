@@ -17,19 +17,19 @@ export default function Day0928() {
           width="40%"
           height="auto"
           src="assets/img/sensor-1.png"
-          alt="airmotor"
+          alt="distSensor-1"
         />
         <img
           width="40%"
           height="auto"
           src="assets/img/sensor-2.png"
-          alt="airmotor"
+          alt="distSensor-2"
         />
         <img
           width="40%"
           height="auto"
           src="assets/img/sensor-3.png"
-          alt="airmotor"
+          alt="distSensor-3"
         />
 
         <br />

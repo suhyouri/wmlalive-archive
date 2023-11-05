@@ -50,6 +50,7 @@ header {
 
 .post:hover{
     filter: brightness(1.2);
+    cursor: grab;
 }
 
 .post__header{
@@ -71,13 +72,13 @@ header {
 }
 .post:nth-last-child(2) {
     background-color: #847F96;
-    background-image: url("/src/img/hew.jpeg");
+    background-image: url("/public/assets/img/hew.jpeg");
     background-position: center center;
     background-size: cover;
 }
 .post:nth-last-child(3) {
     background-color: #ABCBF4;
-    background-image: url("/src/img/init-sketch.jpeg");
+    background-image: url("/public/assets/img/init-sketch.jpeg");
     background-position: center center;
     background-size: cover;
 }
@@ -101,7 +102,7 @@ header {
 .post:nth-last-child(4) {
     height: 100%;
     width: 100%;
-    background-image: url("/src/img/2-2.jpg");
+    background-image: url("/public/assets/img/2-2.jpg");
     background-position: center center;
     background-size: cover;
 }
@@ -113,24 +114,25 @@ header {
 .post:nth-last-child(6) {
     height: 100%;
     width: 100%;
-    background-image: url("/src/img/1-1.jpg");
+    background-image: url("/public/assets/img/1.jpg");
     background-position: center center;
     background-size: cover;
 }
 
 .post:nth-last-child(7) {
     background-color: #fff200;
+
 }
 
 .post:nth-last-child(8) {
     background-color: #fff200;
-    background-image: url("/src/img/monster_1.PNG");
+    background-image: url("/public/assets/img/monster_1.PNG");
     background-position: top center;
     background-size: cover;
 }
 .post:nth-last-child(9) {
     background-color: #38AAF9;
-    background-image: url("/src/img/sighrock_2.PNG");
+    background-image: url("/public/assets/img/sighrock_2.PNG");
     background-position: top center;
     background-size: cover;
 }
@@ -139,7 +141,7 @@ header {
 }
 .post:nth-last-child(11) {
     background-color: #ff7700;
-    background-image: url("/src/img/Installation.png");
+    background-image: url("/public/assets/img/Installation.png");
     background-position: center center;
     background-size: cover;
 }
@@ -215,9 +217,137 @@ header {
     
 }
 .post:nth-last-child(20) {
-    background-color: #ffbcbb;
+    /* background-color: #ffbcbb; */
+    background-image: url("/public/assets/img/230108_1.jpg");
+    background-position: 0% 80%;
+    background-size:150%;
 }
 
+.post:nth-last-child(21) {
+    background-color: #fff3db;
+    background-image: url("/public/assets/img/230108_3.png");
+    background-position: 0% 80%;
+    background-size:150%;
+}
+#_230108{
+    background-color: #fff3db;
+}
+
+.post:nth-last-child(22) {
+    background-image: url("/public/assets/img/230221.jpg");
+    background-position: 0% 00%;
+    background-size: cover;
+}
+
+#_230221{
+    background-color: #dddddd;
+}
+.post:nth-last-child(23) {
+    background-color: #fff293;
+    background-image: url("/public/assets/img/230221_2.jpg");
+    background-position: 50% 50%;
+    background-size: cover;
+}
+
+#_230510{
+    background-color: #d5a8a8;
+}
+
+.post:nth-last-child(24) {
+    background-color: #9057b8;
+    background-image: url("/public/assets/img/230510_6.jpg");
+    background-position: 50% 50%;
+    background-size: cover;
+    
+}
+#_230520{
+    background-color: #e2c71a;
+}
+
+.post:nth-last-child(25) {
+    background-image: url("/public/assets/img/230510_4.png");
+    background-position: 50% 50%;
+    background-size: 70%;
+    background-color: #d5a8a8;
+}
+
+#_230613{
+    background-color: #d5a8a8;
+}
+
+.post:nth-last-child(26) {
+    /* background-color: #4572cc; */
+    background-color: #ffde09;
+    background-image: url("/public/assets/img/230520.png");
+    background-position: 50% 50%;
+    background-size: cover;
+    
+}
+.post:nth-last-child(27) {
+    background-color: #853cd4;
+    background-image: url("/public/assets/img/230613_1.jpg");
+    background-size: cover;
+}
+
+.post:nth-last-child(28) {
+
+    background-image: url("/public/assets/img/230625_1.JPG");
+    background-position: 0% 0%;
+    background-size: 100%;
+}
+
+#_230625{
+    background-color: #f05623;
+}
+.post:nth-last-child(29) {
+    background-image: url("/public/assets/img/230716_1.png");
+    background-position: 0% 0%;
+    background-size: 100%;
+    
+}
+.post:nth-last-child(30) {
+    background-image: url("/public/assets/img/230802_1.png");
+    background-position: center center;
+    background-size:90%;
+}
+#_230716{
+    background-color: #ffecbb;
+}
+
+#_230802{
+    background-color: #ffffff;
+}
+#_230902{
+    background-color: #ababab;
+}
+.post:nth-last-child(31) {
+    background-color: #ababab;
+    background-image: url("/public/assets/img/230902_2.png");
+    background-position: center center;
+    background-size:100%;
+}
+.post:nth-last-child(32) {
+    background-image: url("/public/assets/img/231015_1.png");
+    background-position: 5% 0%;
+    background-size: cover;
+}
+.post:nth-last-child(33) {
+    background-image: url("/public/assets/img/231105_1.jpg");
+    background-position: 90% 0%;
+    background-size: cover;
+}
+#_231015{
+    background-color: #7a7a7a;
+}
+.post:nth-last-child(34) {
+    background-image: url("/public/assets/img/231105_1.jpg");
+    background-position: 10% 0%;
+    background-size: cover;
+}
+
+#_231105{
+    background-color: #ffffff;
+}
 a {
     text-decoration-line: none;
     color:black;

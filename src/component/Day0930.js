@@ -17,31 +17,31 @@ export default function Day0930() {
           width="20%"
           height="auto"
           src="assets/img/conc_1.PNG"
-          alt="airmotor"
+          alt="conc-1"
         />
         <img
           width="20%"
           height="auto"
           src="assets/img/conc_2.PNG"
-          alt="airmotor"
+          alt="conc-2"
         />
         <img
           width="20%"
           height="auto"
           src="assets/img/conc_3.PNG"
-          alt="airmotor"
+          alt="conc-3"
         />
         <img
           width="20%"
           height="auto"
           src="assets/img/conc_4.PNG"
-          alt="airmotor"
+          alt="conc-4"
         />
         <img
           width="10%"
           height="auto"
           src="assets/img/conc_5.PNG"
-          alt="airmotor"
+          alt="conc-5"
         />
         <br />
         <br />

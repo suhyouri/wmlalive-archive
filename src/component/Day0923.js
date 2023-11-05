@@ -18,43 +18,43 @@ export default function Day0923() {
           width="80%"
           height="auto"
           src="assets/img/installation.png"
-          alt="airmotor"
+          alt="installation"
         />
         <img
           width="80%"
           height="auto"
           src="assets/img/p_002.jpeg"
-          alt="airmotor"
+          alt="presentation_introduction"
         />
         <img
           width="80%"
           height="auto"
           src="assets/img/p_003.jpeg"
-          alt="airmotor"
+          alt="WMLAlive"
         />
         <img
           width="80%"
           height="auto"
           src="assets/img/p_007.jpeg"
-          alt="airmotor"
+          alt="question"
         />
         <img
           width="80%"
           height="auto"
           src="assets/img/p_013.jpeg"
-          alt="airmotor"
+          alt="oneBreath"
         />
         <img
           width="80%"
           height="auto"
           src="assets/img/p_015.jpeg"
-          alt="airmotor"
+          alt="suseok-1"
         />
         <img
           width="80%"
           height="auto"
           src="assets/img/p_017.jpeg"
-          alt="airmotor"
+          alt="suseok-2"
         />
 
         <br />

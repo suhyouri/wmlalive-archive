@@ -18,7 +18,7 @@ export default function Day1103() {
           width="50%"
           height="auto"
           src="assets/img/InstallationSimulation.png"
-          alt="airmotor"
+          alt="InstallationSimulation"
         />
         <br />
         <br />

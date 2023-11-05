@@ -18,9 +18,8 @@ export default function Day1028() {
           width="80%"
           height="auto"
           src="assets/img/enclosure.png"
-          alt="airmotor"
+          alt="enclosure"
         />
-      
 
         <br />
         <p></p>

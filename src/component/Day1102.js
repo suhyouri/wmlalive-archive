@@ -17,13 +17,13 @@ export default function Day1102() {
           width="50%"
           height="auto"
           src="assets/img/brochure_front.png"
-          alt="airmotor"
+          alt="brochure_front"
         />
         <img
           width="50%"
           height="auto"
           src="assets/img/brochure_back.png"
-          alt="airmotor"
+          alt="brochure_back"
         />
         <br />
         <br />

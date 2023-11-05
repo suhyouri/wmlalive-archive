@@ -18,25 +18,25 @@ export default function Day0912() {
           width="200px"
           height="auto"
           src="assets/img/sighrock_3.PNG"
-          alt="sighrock"
+          alt="sighrock3"
         />
         <img
           width="200px"
           height="auto"
           src="assets/img/sighrock_2.PNG"
-          alt="sighrock"
+          alt="sighrock2"
         />
         <img
           width="300px"
           height="auto"
           src="assets/img/sighrock_4.PNG"
-          alt="sighrock"
+          alt="sighrock4"
         />
         <img
           width="100px"
           height="auto"
           src="assets/img/sighrock_5.PNG"
-          alt="sighrock"
+          alt="sighrock5"
         />
         <br />
         <p>500 lumen</p>

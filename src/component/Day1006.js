@@ -18,13 +18,13 @@ export default function Day1006() {
           width="80%"
           height="auto"
           src="assets/img/system-schematic.jpeg"
-          alt="airmotor"
+          alt="system-schematic"
         />
         <img
           width="30%"
           height="auto"
           src="assets/img/system.PNG"
-          alt="airmotor"
+          alt="system"
         />
 
         <br />

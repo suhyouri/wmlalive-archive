@@ -19,6 +19,20 @@ import Day1025 from "./component/Day1025";
 import Day1028 from "./component/Day1028";
 import Day1102 from "./component/Day1102";
 import Day1103 from './component/Day1103';
+
+import Day230108 from "./component/Day230108";
+import Day230221 from "./component/Day230221";
+import Day230510 from "./component/Day230510";
+import Day230520 from "./component/Day230520";
+import Day230613 from "./component/Day230613";
+
+import Day230625 from "./component/Day230625";
+import Day230716 from "./component/Day230716";
+import Day230802 from "./component/Day230802";
+import Day230902 from "./component/Day230902";
+import Day231015 from "./component/Day231015";
+import Day231105 from "./component/Day231105";
+
 import Header from './component/Header';
 
 
@@ -48,10 +62,22 @@ function App() {
             <Route path="/1028" element={<Day1028 />} />
             <Route path="/1102" element={<Day1102 />} />
             <Route path="/1103" element={<Day1103 />} />
+
+            <Route path="/230108" element={<Day230108 />} />
+            <Route path="/230221" element={<Day230221 />} />
+            <Route path="/230510" element={<Day230510 />} />
+            <Route path="/230520" element={<Day230520 />} />
+            <Route path="/230613" element={<Day230613 />} />
+            <Route path="/230625" element={<Day230625 />} />
+            <Route path="/230716" element={<Day230716 />} />
+            <Route path="/230802" element={<Day230802 />} />
+            <Route path="/230902" element={<Day230902 />} />
+            <Route path="/231015" element={<Day231015 />} />
+            <Route path="/231105" element={<Day231105 />} />
           </Routes>
           <footer>
             <a href="mailto:suhyouri@gmail.com" className="nav__link">
-              © Suh Youri 2022
+              © Suh Youri
             </a>
           </footer>
         </BrowserRouter>

@@ -18,7 +18,7 @@ export default function Day0803() {
           width="500px"
           height="auto"
           src="assets/img/init-plan.png"
-          alt="airmotor"
+          alt="planning"
         />
         <br />
         <p>
