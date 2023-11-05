@@ -348,6 +348,30 @@ header {
 #_231105{
     background-color: #ffffff;
 }
+
+.post:nth-last-child(35) {
+    background-image: url("/public/assets/img/poster_final_2.jpg");
+    background-position: center;
+    background-size: 95%;
+}
+
+#_231106{
+    background-color: #ffffff;
+}
+.post:nth-last-child(36) {
+    background-image: url("/public/assets/img/poster_final_1.jpg");
+    background-position: center;
+    background-size: 95%;
+}
+
+
+
+.post:nth-last-child(37) {
+    background-image: url("/public/assets/img/poster_final-01.png");
+    background-position: center;
+    background-size: 95%;
+}
+
 a {
     text-decoration-line: none;
     color:black;

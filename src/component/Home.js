@@ -8,18 +8,32 @@ export default function Home(){
         <section className="post">
           <header className="post__header">
             <li>
-              <Link to="/231105">전시소개 프린트</Link>
+              <Link to="/231106">포스터</Link>
             </li>
           </header>
           <footer className="footer">
-            <span className="post__author">23/11/05</span>
+            <span className="post__author"></span>
           </footer>
         </section>
         <section className="post"></section>
         <section className="post">
           <header className="post__header">
             <li>
-              <Link to="/231015">한숨석 구조 <br/>2023 리뉴얼</Link>
+              <Link to="/231105">전시소개</Link>
+            </li>
+          </header>
+          <footer className="footer">
+            <span className="post__author"></span>
+          </footer>
+        </section>
+        <section className="post"></section>
+        <section className="post">
+          <header className="post__header">
+            <li>
+              <Link to="/231015">
+                한숨석 구조 <br />
+                2023 리뉴얼
+              </Link>
             </li>
           </header>
           <footer className="footer">

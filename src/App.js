@@ -32,6 +32,7 @@ import Day230802 from "./component/Day230802";
 import Day230902 from "./component/Day230902";
 import Day231015 from "./component/Day231015";
 import Day231105 from "./component/Day231105";
+import Day231106 from "./component/Day231106";
 
 import Header from './component/Header';
 
@@ -74,6 +75,7 @@ function App() {
             <Route path="/230902" element={<Day230902 />} />
             <Route path="/231015" element={<Day231015 />} />
             <Route path="/231105" element={<Day231105 />} />
+            <Route path="/231106" element={<Day231106 />} />
           </Routes>
           <footer>
             <a href="mailto:suhyouri@gmail.com" className="nav__link">
